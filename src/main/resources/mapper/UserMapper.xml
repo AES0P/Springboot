@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hzero.demo.springboot.springbootdemo.web.mapper.UserMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.hzero.demo.springboot.springbootdemo.web.entity.User">
+    <result column="id" property="id" />
+        <result column="age" property="age" />
+        <result column="birthday" property="birthday" />
+        <result column="comments" property="comments" />
+        <result column="password" property="password" />
+        <result column="role" property="role" />
+        <result column="sexy" property="sexy" />
+        <result column="username" property="username" />
+    </resultMap>
+
+
+    <select id="selectUsersByAge" resultType="com.hzero.demo.springboot.springbootdemo.web.entity.User">
+        SELECT * FROM user WHERE age=#{age}
+    </select>
+
+
+    <!--这个文件不能放到别的目录下，扫描不到-->
+
+</mapper>

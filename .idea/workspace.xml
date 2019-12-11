@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c4a9266-15c2-4c85-b5f1-602e42d0568e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uj3z6YmtCDJgUGYkPMu6RjDRu1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources" />
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\mybatisplus" />
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\config" />
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\config\log" />
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hzero.demo.springboot.springbootdemo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hzero.demo.springboot.springbootdemo.util.redis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\redis" />
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\java\com\hzero\demo\springboot\springbootdemo\util" />
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\templates" />
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootdemoApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzero.demo.springboot.springbootdemo.mybatisplus.generator.CodeGenerator" />
+      <module name="Springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzero.demo.springboot.springbootdemo.mybatisplus.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jasypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hzero.demo.springboot.springbootdemo.util.encryption.Jasypt" />
+      <module name="Springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzero.demo.springboot.springbootdemo.util.encryption.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzero.demo.springboot.springbootdemo.redis.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hzero.demo.springboot.springbootdemo.redis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hzero.demo.springboot.springbootdemo.redis.test.RedisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzero.demo.springboot.springbootdemo.redis.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hzero.demo.springboot.springbootdemo.redis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hzero.demo.springboot.springbootdemo.redis.test.RedisTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzero.demo.springboot.springbootdemo.redis.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hzero.demo.springboot.springbootdemo.redis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hzero.demo.springboot.springbootdemo.redis.test.RedisTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hzero.demo.springboot.springbootdemo.SpringbootdemoApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--jasypt.encryptor.password=Aesop" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CodeGenerator" />
+      <item itemvalue="Application.Jasypt" />
+      <item itemvalue="JUnit.RedisTest" />
+      <item itemvalue="JUnit.RedisTest.test" />
+      <item itemvalue="JUnit.RedisTest.get" />
+      <item itemvalue="Spring Boot.SpringbootdemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisTest.get" />
+        <item itemvalue="JUnit.RedisTest" />
+        <item itemvalue="JUnit.RedisTest.test" />
+        <item itemvalue="Application.Jasypt" />
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c4a9266-15c2-4c85-b5f1-602e42d0568e" name="Default Changelist" comment="" />
+      <created>1575856436092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575856436092</updated>
+      <workItem from="1575856441000" duration="28160000" />
+      <workItem from="1575940551925" duration="14913000" />
+      <workItem from="1575965546247" duration="71000" />
+      <workItem from="1575965654250" duration="9934000" />
+      <workItem from="1575989471702" duration="189000" />
+      <workItem from="1576027247907" duration="21457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575978862608">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1575978862608" />
+    <state x="418" y="177" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575963862841">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="418" y="177" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1575963862841" />
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1576052292563">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1576052292563" />
+    <state x="363" y="98" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575962236259">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="98" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1575962236259" />
+    <state x="73" y="296" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576051696761">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="73" y="296" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1576051696761" />
+    <state x="451" y="235" width="563" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576050476036">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="451" y="235" width="563" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1576050476036" />
+    <state x="449" y="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1576029427213">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="449" y="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.738@0.0.1366.738" timestamp="1576029427213" />
+    <state x="273" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576046211238">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="273" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1576046211238" />
+    <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576046154498">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1576046154498" />
+    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1576057606333">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1576057606333" />
+    <state x="508" y="266" width="373" height="205" key="Github.CreateGistDialog" timestamp="1575884718973">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="508" y="266" width="373" height="205" key="Github.CreateGistDialog/0.0.1366.738@0.0.1366.738" timestamp="1575884718973" />
+    <state width="1323" height="348" key="GridCell.Tab.0.bottom" timestamp="1576057597122">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="348" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576057597122" />
+    <state width="1323" height="348" key="GridCell.Tab.0.center" timestamp="1576057597122">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="348" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576057597122" />
+    <state width="1323" height="348" key="GridCell.Tab.0.left" timestamp="1576057597122">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="348" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576057597122" />
+    <state width="1323" height="348" key="GridCell.Tab.0.right" timestamp="1576057597122">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="348" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576057597122" />
+    <state width="1323" height="348" key="GridCell.Tab.1.bottom" timestamp="1576057592042">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="348" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576057592042" />
+    <state width="1323" height="348" key="GridCell.Tab.1.center" timestamp="1576057592042">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="348" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1576057592042" />
+    <state width="1323" height="348" key="GridCell.Tab.1.left" timestamp="1576057592042">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="348" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1576057592042" />
+    <state width="1323" height="348" key="GridCell.Tab.1.right" timestamp="1576057592042">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="348" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1576057592042" />
+    <state x="263" y="106" key="IDE.errors.dialog" timestamp="1575876479213">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="106" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1575876479213" />
+    <state x="213" y="26" key="Maven.ArtifactSearchDialog" timestamp="1575967546149">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="26" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1575967546149" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1576036880861">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576036880861" />
+    <state x="370" y="129" width="626" height="480" key="find.popup" timestamp="1575859381937">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="370" y="129" width="626" height="480" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1575859381937" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1576034597914">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1576034597914" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1576055693457">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1576055693457" />
+  </component>
+</project>

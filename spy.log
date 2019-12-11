@@ -1,0 +1,28 @@
+#12-09-19 17:39:20:19 | took 13ms | statement | connection 0| url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8
+SELECT 1
+SELECT 1;
+#12-09-19 17:39:20:126 | took 4ms | statement | connection 0| url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8
+SELECT COUNT(1) FROM user
+SELECT COUNT(1) FROM user;
+#12-09-19 17:39:20:139 | took 4ms | statement | connection 0| url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8
+SELECT id, age, birthday, comments, password, role, sexy, username FROM user LIMIT ?,?
+SELECT id, age, birthday, comments, password, role, sexy, username FROM user LIMIT 5,5;
+#12-09-19 17:39:20:149 | took 1ms | commit | connection 0| url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8
+
+;
+1575884848251|10|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT 1|SELECT 1
+1575884848386|4|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT COUNT(1) FROM user|SELECT COUNT(1) FROM user
+1575884848402|2|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT id, age, birthday, comments, password, role, sexy, username FROM user LIMIT ?,?|SELECT id, age, birthday, comments, password, role, sexy, username FROM user LIMIT 5,5
+1575884848417|1|commit|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8||
+1575884868999|7|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT 1|SELECT 1
+1575884869097|3|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT COUNT(1) FROM user|SELECT COUNT(1) FROM user
+1575884869109|2|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT id, age, birthday, comments, password, role, sexy, username FROM user LIMIT ?,?|SELECT id, age, birthday, comments, password, role, sexy, username FROM user LIMIT 5,5
+1575884869120|0|commit|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8||
+1575884873087|0|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT 1|SELECT 1
+1575884873093|1|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT COUNT(1) FROM user|SELECT COUNT(1) FROM user
+1575884873094|0|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT id, age, birthday, comments, password, role, sexy, username FROM user LIMIT ?,?|SELECT id, age, birthday, comments, password, role, sexy, username FROM user LIMIT 5,5
+1575884873096|0|commit|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8||
+1575884876765|0|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT 1|SELECT 1
+1575884876769|1|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT COUNT(1) FROM user|SELECT COUNT(1) FROM user
+1575884876771|0|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8|SELECT id, age, birthday, comments, password, role, sexy, username FROM user LIMIT ?,?|SELECT id, age, birthday, comments, password, role, sexy, username FROM user LIMIT 5,5
+1575884876773|0|commit|connection 0|url jdbc:p6spy:mysql://localhost:3306/springboot?useSSL=false&serverTimezone=GMT%2B8||
