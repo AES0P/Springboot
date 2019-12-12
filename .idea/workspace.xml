@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c4a9266-15c2-4c85-b5f1-602e42d0568e" name="Default Changelist" comment="" />
+    <list default="true" id="3c4a9266-15c2-4c85-b5f1-602e42d0568e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_ui_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzero/demo/springboot/springbootdemo/util/swagger/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hzero/demo/springboot/springbootdemo/web/controller/UserControllerSwagger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hzero/demo/springboot/springbootdemo/SpringbootdemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hzero/demo/springboot/springbootdemo/SpringbootdemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hzero/demo/springboot/springbootdemo/web/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hzero/demo/springboot/springbootdemo/web/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config/application-dev.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +46,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -30,6 +62,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Uj3z6YmtCDJgUGYkPMu6RjDRu1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,27 +83,29 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hzero.demo.springboot.springbootdemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\Springboot\src\main\java\com\hzero\demo\springboot\springbootdemo\web\mapper" />
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\redis" />
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\java\com\hzero\demo\springboot\springbootdemo\util" />
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\templates" />
+      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hzero.demo.springboot.springbootdemo" />
+      <recent name="com.hzero.demo.springboot.springbootdemo.util.redis" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources" />
       <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\mybatisplus" />
       <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\config" />
       <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\config\log" />
       <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\mapper" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.hzero.demo.springboot.springbootdemo" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.hzero.demo.springboot.springbootdemo.util.redis" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\redis" />
-      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\java\com\hzero\demo\springboot\springbootdemo\util" />
-      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources\templates" />
-      <recent name="D:\hand_h0_excise\H0\project\backend\7.SpringBoot\SpringbootWithMyBatisPlus\src\main\resources" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.SpringbootdemoApplication">
@@ -202,11 +237,29 @@
       <workItem from="1575965654250" duration="9934000" />
       <workItem from="1575989471702" duration="189000" />
       <workItem from="1576027247907" duration="21457000" />
+      <workItem from="1576057522241" duration="1792000" />
+      <workItem from="1576062897615" duration="67000" />
+      <workItem from="1576063675153" duration="2002000" />
+      <workItem from="1576113875141" duration="11052000" />
+      <workItem from="1576136730584" duration="3241000" />
     </task>
+    <task id="LOCAL-00001" summary="Create project.&#10;                                                                2019.12.11&#10;                                                                Aesop">
+      <created>1576057696809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576057696809</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create project.&#10;                                                                2019.12.11&#10;                                                                Aesop" />
+    <MESSAGE value="1.Added swagger dependence, for test,and auto-generate docs of all interface;&#10;2.Adjusted the layer of package of this demo;&#10;3.Revised some dependencies in pom.&#10;                                                                2019.12.12&#10;                                                                Aesop" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.Added swagger dependence, for test,and auto-generate docs of all interface;&#10;2.Adjusted the layer of package of this demo;&#10;3.Revised some dependencies in pom.&#10;                                                                2019.12.12&#10;                                                                Aesop" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575978862608">
@@ -241,50 +294,54 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="273" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1576046211238" />
-    <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576046154498">
+    <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576063973976">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1576046154498" />
-    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1576057606333">
+    <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1576063973976" />
+    <state x="182" y="0" key="CommitChangelistDialog2" timestamp="1576140302111">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1576057606333" />
+    <state x="182" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1576140302111" />
+    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1576134513723">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1576134513723" />
     <state x="508" y="266" width="373" height="205" key="Github.CreateGistDialog" timestamp="1575884718973">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="508" y="266" width="373" height="205" key="Github.CreateGistDialog/0.0.1366.738@0.0.1366.738" timestamp="1575884718973" />
-    <state width="1323" height="348" key="GridCell.Tab.0.bottom" timestamp="1576057597122">
+    <state width="1323" height="205" key="GridCell.Tab.0.bottom" timestamp="1576139481226">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="348" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576057597122" />
-    <state width="1323" height="348" key="GridCell.Tab.0.center" timestamp="1576057597122">
+    <state width="1323" height="205" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576139481226" />
+    <state width="1323" height="205" key="GridCell.Tab.0.center" timestamp="1576139481225">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="348" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576057597122" />
-    <state width="1323" height="348" key="GridCell.Tab.0.left" timestamp="1576057597122">
+    <state width="1323" height="205" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576139481225" />
+    <state width="1323" height="205" key="GridCell.Tab.0.left" timestamp="1576139481225">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="348" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576057597122" />
-    <state width="1323" height="348" key="GridCell.Tab.0.right" timestamp="1576057597122">
+    <state width="1323" height="205" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576139481225" />
+    <state width="1323" height="205" key="GridCell.Tab.0.right" timestamp="1576139481225">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="348" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576057597122" />
-    <state width="1323" height="348" key="GridCell.Tab.1.bottom" timestamp="1576057592042">
+    <state width="1323" height="205" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576139481225" />
+    <state width="1323" height="205" key="GridCell.Tab.1.bottom" timestamp="1576139474391">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="348" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576057592042" />
-    <state width="1323" height="348" key="GridCell.Tab.1.center" timestamp="1576057592042">
+    <state width="1323" height="205" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576139474391" />
+    <state width="1323" height="205" key="GridCell.Tab.1.center" timestamp="1576139474391">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="348" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1576057592042" />
-    <state width="1323" height="348" key="GridCell.Tab.1.left" timestamp="1576057592042">
+    <state width="1323" height="205" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1576139474391" />
+    <state width="1323" height="205" key="GridCell.Tab.1.left" timestamp="1576139474391">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="348" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1576057592042" />
-    <state width="1323" height="348" key="GridCell.Tab.1.right" timestamp="1576057592042">
+    <state width="1323" height="205" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1576139474391" />
+    <state width="1323" height="205" key="GridCell.Tab.1.right" timestamp="1576139474391">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="348" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1576057592042" />
+    <state width="1323" height="205" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1576139474391" />
     <state x="263" y="106" key="IDE.errors.dialog" timestamp="1575876479213">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -293,10 +350,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="213" y="26" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1575967546149" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1576036880861">
+    <state x="378" y="81" key="RollbackChangesDialog" timestamp="1576118274612">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576036880861" />
+    <state x="378" y="81" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1576118274612" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1576134545446">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576134545446" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1576057712783">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1576057712783" />
     <state x="370" y="129" width="626" height="480" key="find.popup" timestamp="1575859381937">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -305,9 +370,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1576034597914" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1576055693457">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1576117384896">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1576055693457" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1576117384896" />
   </component>
 </project>

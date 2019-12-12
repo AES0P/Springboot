@@ -122,7 +122,7 @@ spring:
   redis:
     database: 0     # Redis 数据库索引（默认为0）
     host: 127.0.0.1 # Redis 服务器地址
-    password: hzero # Redis 密码
+#    password: hzero # Redis 密码 如果你的redis服务本身没有设置密码，而在这里填写了密码，会报错！
     port: 6379      # Redis 服务器连接端口
     jedis:
       pool:

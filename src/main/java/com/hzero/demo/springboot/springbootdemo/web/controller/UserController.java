@@ -5,6 +5,7 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.hzero.demo.springboot.springbootdemo.web.entity.User;
 import com.hzero.demo.springboot.springbootdemo.web.service.UserService;
+import io.swagger.annotations.Api;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
@@ -21,6 +22,7 @@ import java.util.Random;
  * @author Aesop
  * @since 2019-12-09
  */
+@Api(tags = "User")
 @Controller
 @RequestMapping("/user")
 public class UserController {

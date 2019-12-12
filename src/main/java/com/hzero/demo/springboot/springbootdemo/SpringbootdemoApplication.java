@@ -6,12 +6,14 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.context.annotation.ImportResource;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
 //@MapperScan(basePackages = "com.hzero.demo.springboot.springbootdemo.web.mapper")
 //@EnableEncryptableProperties//如果单独引用的jasypt-spring-boot则需要加上这个注解
 @EnableCaching//开启缓存
 @ImportResource(locations = "classpath:/redis/Config-Listener.xml")//导入redis 订阅服务xml配置文件
+@EnableSwagger2
 public class SpringbootdemoApplication {
 
     private static final Logger logger = LoggerFactory.getLogger(SpringbootdemoApplication.class);
@@ -25,6 +27,11 @@ public class SpringbootdemoApplication {
 
         SpringApplication.run(SpringbootdemoApplication.class, args);
         logger.info("========================启动完毕========================");
+        logger.info("如有MySql数据库连接报错或Redis订阅服务报错，相关服务是否开启，并检查权限验证是否正确设置");
+        logger.info("  index地址： http://localhost/dev/index.html");
+        logger.info("swagger地址： http://localhost/dev/swagger-ui.html");
+        logger.info("           ： http://localhost/dev/doc.html");
+
     }
 
 }
