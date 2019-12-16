@@ -10,4 +10,4 @@
 ####7、配置动态数据源，实现主从模式，主数据库实现增删改，从数据库用来查询。先引入dynamic-datasource-spring-boot-starter包，然后在.yml文件中配置spring多数据源，在serviceImpl等地方使用@DS（“数据源名”），切换数据源
 ####8、实现redis缓存功能：引入spring-boot-starter-data-redis，.yml文件中配置spring.cache的缓存方式为redis，配置redis（RedisTemplateConfig.java），实现redis缓存方法（RedisCache.java & RedisCacheManager.java），实现redis订阅服务：在resources/redis下放置listener配置，然后在xxapplication.java中import，最后编写MsgListener.java实现订阅服务
 ####9、在service中编写业务逻辑，在controller中实现相关功能
-
+####10、添加spring security支持，步骤:1、pom引入spring-boot-starter-security,2、配置WebSecurityConfig类等，3、准备好相应界面和控制器

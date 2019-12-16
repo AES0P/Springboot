@@ -149,11 +149,11 @@
         </dependency>
 
         <!-- swagger三方UI-->
-<!--        <dependency>-->
-<!--            <groupId>com.github.xiaoymin</groupId>-->
-<!--            <artifactId>swagger-bootstrap-ui</artifactId>-->
-<!--            <version>1.8.7</version>-->
-<!--        </dependency>-->
+        <!--        <dependency>-->
+        <!--            <groupId>com.github.xiaoymin</groupId>-->
+        <!--            <artifactId>swagger-bootstrap-ui</artifactId>-->
+        <!--            <version>1.8.7</version>-->
+        <!--        </dependency>-->
 
         <dependency>
             <groupId>com.github.xiaoymin</groupId>
@@ -161,6 +161,21 @@
             <version>1.9.6</version>
         </dependency>
         <!-- swagger end-->
+
+
+        <!-- spring-security begin-->
+        <!-- 在项目中引入了SpringSecurity的依赖,默认会给你自动配置,默认的用户名是user,
+        密码是每次启动控制台的一串字符串,每次启动这个密码都不一样。并且还会给你生成一个默认login登录页面,可以自定义-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <!-- spring-security end-->
 
 
     </dependencies>

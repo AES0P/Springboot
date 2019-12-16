@@ -31,6 +31,7 @@ public class SpringbootdemoApplication {
         logger.info("  index地址： http://localhost/dev/index.html");
         logger.info("swagger地址： http://localhost/dev/swagger-ui.html");
         logger.info("           ： http://localhost/dev/doc.html");
+        logger.info("登 录 地  址： http://localhost/dev/user/login");
 
     }
 
