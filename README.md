@@ -11,3 +11,4 @@
 ####8、实现redis缓存功能：引入spring-boot-starter-data-redis，.yml文件中配置spring.cache的缓存方式为redis，配置redis（RedisTemplateConfig.java），实现redis缓存方法（RedisCache.java & RedisCacheManager.java），实现redis订阅服务：在resources/redis下放置listener配置，然后在xxapplication.java中import，最后编写MsgListener.java实现订阅服务
 ####9、在service中编写业务逻辑，在controller中实现相关功能
 ####10、添加spring security支持，步骤:1、pom引入spring-boot-starter-security,2、配置WebSecurityConfig类等，3、准备好相应界面和控制器
+####11、热部署：1、引入spring-boot-devtools，2、setting中勾选Build project automatically，3、ctrl + shift + alt + /，registry中勾选Compiler autoMake allow when app running即可

@@ -177,6 +177,13 @@
         </dependency>
         <!-- spring-security end-->
 
+        <!-- 引入devtools 依赖 -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <!-- optional=true,依赖不会传递 该项目依赖devtools；之后依赖该项目的项目如果想要使用devtools，需要重新引入-->
+            <optional>true</optional>
+        </dependency>
 
     </dependencies>
 
